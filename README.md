@@ -2,9 +2,9 @@
 This repository contains the schematic, PCB design, and documentation for an STM32-based development prototype designed for breadboard testing and prototyping.
 
 ## Project Status
-    ##### Schematic   : ✅ 100% Complete
-    ##### PCB Design  : ✅ 100% Complete
-    ##### Documentation: ⚠️ 60% Complete (Ongoing)
+     Schematic   : ✅ 100% Complete
+     PCB Design  : ✅ 100% Complete
+     Documentation: ⚠️ 60% Complete (Ongoing)
 
 ## Table of Contents
 Overview
