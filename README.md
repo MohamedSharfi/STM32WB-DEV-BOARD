@@ -4,7 +4,7 @@ This repository contains the schematic, PCB design, and documentation for an STM
 ## Project Status
      Schematic    :  100% Complete
      PCB Design   :  100% Complete
-     Documentation:  100% Complete (Ongoing)
+     Documentation:  100% Complete
 
 ## Table of Contents
 Overview
